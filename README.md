@@ -5,13 +5,13 @@ The project covers both **linear regression** (predicting house prices) and **lo
 
 ---
 
-## 📊 Datasets
+## Datasets
 1. **Ames Housing Dataset** – Predicts `SalePrice` based on property features.
 2. **CHD Dataset** – Predicts the probability of coronary heart disease (`chd`).
 
 ---
 
-## 🧠 Techniques Used
+## Techniques Used
 - Data exploration & visualization
 - Correlation analysis (`corrplot`)
 - Linear regression model building (`lm`)
@@ -22,6 +22,6 @@ The project covers both **linear regression** (predicting house prices) and **lo
 
 ---
 
-## 🧰 Packages Required
+## Packages Required
 ```r
 install.packages(c('car', 'corrplot', 'caret', 'carData', 'ggplot2', 'lattice'))
